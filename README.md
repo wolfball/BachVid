@@ -1,5 +1,12 @@
-# CharaConsist
+<div align="center">
+  
+## CharaConsist
 Official implementation of ICCV 2025 paper - CharaConsist: Fine-Grained Consistent Character Generation
+
+[[Paper](todo)] &emsp; [[Project Page](https://murray-wang.github.io/CharaConsist/)] &emsp; <br>
+</div>
+
+# 
 
 ## Key Features
 - Without any training, CharaConsist can effectively enhance the consistency of text-to-image generation results.
