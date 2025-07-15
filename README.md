@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### Quick Start
 We provide two ways to use CharaConsist for generating consistent characters:
 
-#### Notebook for Single Example
+#### (1) Notebook for Single Example
 We provide three Jupyter notebooks: 
 - `gen-bg_fg.ipynb`: generating consistent character in a fixed background, as shown in [Fig.1](#fig1).
 - `gen-fg_only.ipynb`: generating consistent character across different backgrounds, as shown in [Fig.2](#fig2).
@@ -51,7 +51,7 @@ We provide three Jupyter notebooks:
 Users can refer to the detailed descriptions in the notebooks to familiarize themselves with the entire framework of the method.
 
 
-#### Script for Batch Generation
+#### (2) Script for Batch Generation
 We provide a batch generation script in `inference.py`. Its functionality is essentially the same as the notebooks above, but it is more convenient for multiple samples generation. Its input parameters include:
 
 - `init_mode`: Different model initialization methods depending on available GPU memory and number of GPUs.
