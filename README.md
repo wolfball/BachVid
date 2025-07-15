@@ -8,18 +8,17 @@ Official implementation of ICCV 2025 paper - CharaConsist: Fine-Grained Consiste
 - The implementation of CharaConsist includes training-free mask extraction and point matching strategies, which can serve as effective tools for related tasks such as image editing.
 
 ## Qualitative Results
+<div align="center">Fig. 1 Consistent Character Generation in a Fixed Background.</div>
 <a name="fig1"></a>
 ![Consistent Character Generation in a Fixed Background.](docs/static/images/fg_bg-all.jpg)
-<div align="center" style="margin-top: -20px; margin-bottom: 0px;">Fig. 1 Consistent Character Generation in a Fixed Background.</div>
 
+<div align="center">Fig. 2 Consistent Character Generation across Different Backgrounds.</div>
 <a name="fig2"></a>
 ![Consistent Character Generation across Different Backgrounds.](docs/static/images/fg_only-all.jpg)
-<div align="center" style="margin-top: -20px; margin-bottom: 0px;">Fig. 2 Consistent Character Generation across Different Backgrounds.</div>
 
+<div align="center">Fig. 3 Story Generation.</div>
 <a name="fig3"></a>
 ![Story Generation.](docs/static/images/story.jpg)
-<div align="center" style="margin-top: -20px; margin-bottom: 0px;">Fig. 3 Story Generation.</div>
-
 
 ## How to use
 ### Dependencies and Installation
