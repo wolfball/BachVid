@@ -9,14 +9,17 @@ Official implementation of ICCV 2025 paper - CharaConsist: Fine-Grained Consiste
 
 ## Qualitative Results
 <div align="center">Fig. 1 Consistent Character Generation in a Fixed Background.</div>
+
 <a name="fig1"></a>
 ![Consistent Character Generation in a Fixed Background.](docs/static/images/fg_bg-all.jpg)
 
 <div align="center">Fig. 2 Consistent Character Generation across Different Backgrounds.</div>
+
 <a name="fig2"></a>
 ![Consistent Character Generation across Different Backgrounds.](docs/static/images/fg_only-all.jpg)
 
 <div align="center">Fig. 3 Story Generation.</div>
+
 <a name="fig3"></a>
 ![Story Generation.](docs/static/images/story.jpg)
 
