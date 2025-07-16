@@ -4,7 +4,7 @@
 
 Official implementation of ICCV 2025 paper - CharaConsist: Fine-Grained Consistent Character Generation
 
-[[Paper](todo)] &emsp; [[Project Page](https://murray-wang.github.io/CharaConsist/)] &emsp; <br>
+[[Paper](https://arxiv.org/abs/2507.11533)] &emsp; [[Project Page](https://murray-wang.github.io/CharaConsist/)] &emsp; <br>
 </div>
 
 # 
