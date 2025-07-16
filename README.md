@@ -7,7 +7,6 @@ Official implementation of ICCV 2025 paper - CharaConsist: Fine-Grained Consiste
 [[Paper](https://arxiv.org/abs/2507.11533)] &emsp; [[Project Page](https://murray-wang.github.io/CharaConsist/)] &emsp; <br>
 </div>
 
----
 ## Update
 - [x] We provide an independent implementation of the training-free mask extraction and point matching strategies in [point_and_mask](https://github.com/Murray-Wang/CharaConsist/tree/main/point_and_mask), for those who are interested in these details and need to use them separately.
 ---
