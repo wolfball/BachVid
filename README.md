@@ -70,7 +70,7 @@ We provide a batch generation script in `inference.py`. Its functionality is ess
     | 0   | single GPU   |   37 GB   | 1 |
     | 1   | single GPU, with model cpu offload   |  26 GB  | 1 |
     | 2   | multiple GPUs, memory distribute evenly    |  <= 20 GB | >=2 |
-    | 3   | single GPU, with sequantial cpu offload   | 3 GB | 1 |
+    | 3   | single GPU, with sequential cpu offload   | 3 GB | 1 |
 
 - `gpu_ids`: The ids of the GPUs to use. When init_mode is set to 0, 1, or 3, only the first GPU in this id list will be used. When init_mode is set to 2, the memory usage will be evenly distributed across all specified GPUs.
 - `prompts_file`: Path to the file containing the input prompts. Two examples are provided in the `examples` folder.
