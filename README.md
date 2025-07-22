@@ -43,7 +43,7 @@ Only requires that:
 And this released version was tested under the environment specified in requirements.txt.
 ```bash
 conda create --name characonsist python=3.9
-conda activate storydiffusion
+conda activate characonsist
 pip install -U pip
 # Install requirements
 pip install -r requirements.txt
