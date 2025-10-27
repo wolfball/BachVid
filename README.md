@@ -14,7 +14,7 @@ If you find our paper helps, please consider citing:
 ```text
 @article{yan2025bachvid,
   title={{BachVid}: Training-Free Video Generation with Consistent Background and Character},
-  author={Han, Yan and },
+  author={Han Yan and Xibin Song and Yifu Wang and Hongdong Li and Pan Ji and Chao Ma},
   journal={arXiv preprint arXiv:2510.21696},
   year={2025}
 }
