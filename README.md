@@ -12,10 +12,13 @@
 If you find our paper helps, please consider citing:
 
 ```text
-@article{yan2025bachvid,
-  title={{BachVid}: Training-Free Video Generation with Consistent Background and Character},
-  author={Han Yan and Xibin Song and Yifu Wang and Hongdong Li and Pan Ji and Chao Ma},
-  journal={arXiv preprint arXiv:2510.21696},
-  year={2025}
+@misc{yan2025bachvid,
+      title={BachVid: Training-Free Video Generation with Consistent Background and Character}, 
+      author={Han Yan and Xibin Song and Yifu Wang and Hongdong Li and Pan Ji and Chao Ma},
+      year={2025},
+      eprint={2510.21696},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.21696}, 
 }
 ```
