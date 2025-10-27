@@ -12,7 +12,7 @@
 If you find our paper helps, please consider citing:
 
 ```text
-@misc{yan2025bachvid,
+@misc{yan2025bachvidtrainingfreevideogeneration,
       title={BachVid: Training-Free Video Generation with Consistent Background and Character}, 
       author={Han Yan and Xibin Song and Yifu Wang and Hongdong Li and Pan Ji and Chao Ma},
       year={2025},
